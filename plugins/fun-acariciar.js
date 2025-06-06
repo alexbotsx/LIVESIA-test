@@ -1,4 +1,4 @@
-//Codígo de BOSSBOT
+//Codígo de LIVEBOT
 
 import fs from 'fs';
 import path from 'path';
